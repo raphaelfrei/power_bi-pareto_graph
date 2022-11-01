@@ -2,7 +2,7 @@
 
 Step by Step on How to Create Pareto's Graphic with Power BI
 
-## 1st - Create a new table based on the main table:
+## 1st - Create a New Table based on the Main Table:
 *(This is used to create a clean-table with only the values necessary for the graph)*
 
 - Modeling > New Table *(Write DAX Expression)*
@@ -64,5 +64,6 @@ Percentual = [Total Cumulative]/[Total Sales]
 The result should be something like this:
 
 ![image](https://user-images.githubusercontent.com/16196820/199264818-4930bfa7-cdee-4c35-913f-176257f45fbb.png)
+
 
 *This was created with Power BI 2022 - 2.109.1021.0*
